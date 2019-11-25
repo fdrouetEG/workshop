@@ -1,0 +1,22 @@
+[
+    {
+        "id" : "1", 
+        "name" : "Toto", 
+        "description" : "",
+        "USD_price" : 14.99,
+        "EUR_price" : 19.99, 
+        "file_link" : "toto.pdf", 
+        "creation_date" : "20181125", 
+        "orders_counter" : 0
+    },
+    {
+    "id" : "2", 
+    "name" : "Toto2", 
+    "description" : "",
+    "USD_price" : 14.99,
+    "EUR_price" : 19.99, 
+    "file_link" : "toto2.pdf", 
+    "creation_date" : "20191125", 
+    "orders_counter" : 0
+    }
+]
